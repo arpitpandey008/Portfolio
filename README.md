@@ -24,7 +24,7 @@ I am a passionate web developer with experience in building web applications usi
 Feel free to reach out to me for collaboration, inquiries, or just to connect!
 
 - **Email**: arpit2001pandey@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/arpit-pandey-223267255)
-- **GitHub**: [Your GitHub Profile](https://github.com/arpitpandey008)
+- **LinkedIn**: [ LinkedIn ](www.linkedin.com/in/arpit-pandey-223267255)
+- **GitHub**: [GitHub](https://github.com/arpitpandey008)
 
 Thank you for visiting my portfolio!
